@@ -1,0 +1,40 @@
+td {
+    vertical-align: middle;
+}
+img {
+    max-height: 100px;
+}
+#cart {
+    margin-left: auto;
+    padding-right: 20px;
+}
+#quantity {
+    width: 30px;
+}
+.seetotal {
+    width: 100px;
+    margin-right: 30px;
+    padding-right: 20px;
+    text-align: center;
+}
+.a{
+    margin-top: 10px;
+}
+.field {
+    margin-bottom: 3px;
+}
+.info {
+    border: 7px;
+    margin-left: 400px;
+    padding: auto;
+}
+.noticeError {
+    color: red;
+    text-decoration: solid ;
+}
+.a {
+    margin-bottom: 30px        
+}
+.address {
+    height: 50px;
+}
