@@ -1,0 +1,17 @@
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\bin\Debug\ProjectSaleManagement.exe.config
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\bin\Debug\ProjectSaleManagement.exe
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\bin\Debug\ProjectSaleManagement.pdb
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Properties.Resources.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.exe
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.pdb
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Function.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Item.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Login.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.GoodReceived.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.GoodDeliveryNote.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Statictical.resources
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\ProjectSaleManagement\obj\Debug\ProjectSaleManagement.Revenue.resources

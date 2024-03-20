@@ -1,0 +1,8 @@
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\bin\Debug\Unitest.exe.config
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\bin\Debug\Unitest.exe
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\bin\Debug\Unitest.pdb
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\obj\Debug\Unitest.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\obj\Debug\Unitest.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\obj\Debug\Unitest.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\obj\Debug\Unitest.exe
+C:\Users\nguye\OneDrive\code\Năm II\Công nghệ phần mềm\Final Project\ProjectSaleManagement\Unitest\obj\Debug\Unitest.pdb
